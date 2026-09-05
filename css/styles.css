@@ -6,12 +6,12 @@
    background: #f8fafc; 
  } 
  header { 
-   background: #0f172a; 
+   background: #1f44b1; 
    color: white; 
    padding: 16px 24px; 
  } 
  nav a { 
-   color: #7dd3fc; 
+   color: #d4d8da; 
    margin-right: 12px; 
    text-decoration: none; 
  } 
@@ -26,7 +26,7 @@
  } 
 
  /* simple selectors */ 
- h1 { color: #0f172a; }                  /* element */ 
+ h1 { color: #d7dce8; }                  /* element */ 
  .intro { background: #f8fafc; }          /* class   */ 
  #welcome { padding: 24px; }              /* id   */ 
  p.intro { font-size: 1.05rem; }           /* element.class */ 
